@@ -1,0 +1,542 @@
+[
+  {
+    "question": "What is a Birth Certificate in India?",
+    "answer": "In India, a Birth Certificate is an official document issued by the government to record the birth of a child. It serves as proof of age and identity and is required for various purposes like school admissions, obtaining passports, and claiming inheritance.",
+    "label": "legal"
+  },
+  {
+    "question": "How to obtain a Death Certificate in India?",
+    "answer": "In India, a Death Certificate is typically obtained by registering the death with the local municipal authority or the designated registrar within a specified period after the death. Required documents usually include a medical certificate of cause of death and proof of the deceased's identity and address.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Marriage Certificate in India?",
+    "answer": "A Marriage Certificate is an official document issued by the government in India that legally recognizes the marriage between two individuals. The process and required documents vary depending on the religion and the specific law under which the marriage is registered (e.g., Hindu Marriage Act, Special Marriage Act).",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Property Deed in India?",
+    "answer": "A Property Deed (also known as a Sale Deed or Conveyance Deed) in India is a legal document that transfers the ownership of a property from the seller to the buyer. It contains details of the property, the parties involved, the sale consideration, and other terms and conditions of the transfer. Registration of the deed is mandatory under Indian law.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Will under Indian Law?",
+    "answer": "Under Indian law, a Will (or Testament) is a legal declaration by a person of their intentions regarding the distribution of their property after their death. It must be in writing, signed by the testator (the person making the will) in the presence of two witnesses who also sign the will.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Power of Attorney (POA) in India?",
+    "answer": "A Power of Attorney (POA) in India is a legal document that authorizes one person (the agent or attorney-in-fact) to act on behalf of another person (the principal) in specified legal, financial, or administrative matters. POAs can be general or specific and must be registered with the relevant authorities in some cases.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Sale Agreement in India?",
+    "answer": "A Sale Agreement (or Agreement to Sell) in India is a contract outlining the terms and conditions agreed upon between the buyer and seller for the future transfer of property. It precedes the final Sale Deed and specifies details like the sale price, payment schedule, and possession date.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Lease Agreement in India?",
+    "answer": "A Lease Agreement in India is a contract between a landlord (lessor) and a tenant (lessee) that grants the tenant the right to use a property for a specified period in exchange for rent. It outlines the terms of the tenancy, including rent amount, duration, maintenance responsibilities, and other conditions.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Partnership Agreement in India?",
+    "answer": "A Partnership Agreement in India is a written contract between two or more individuals who agree to form a partnership to carry on a business and share its profits and losses. It typically specifies the partners' contributions, profit-sharing ratio, responsibilities, and procedures for dissolution.",
+    "label": "legal"
+  },
+  {
+    "question": "What are Court Documents in India?",
+    "answer": "Court Documents in India are official records generated and filed in courts during legal proceedings. These can include plaints, written statements, applications, petitions, affidavits, orders, judgments, and other documents related to a case.",
+    "label": "legal"
+  },
+  {
+    "question": "What is an Affidavit in India?",
+    "answer": "In India, an Affidavit is a written statement made under oath or affirmation before an authorized officer, such as a notary public or a magistrate. It is used as evidence in legal proceedings and must be signed by the deponent (the person making the statement) and attested by the authorized officer.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Gift Deed in India?",
+    "answer": "A Gift Deed in India is a legal document used to voluntarily transfer ownership of property from one person (the donor) to another (the donee) without any exchange of money or consideration. It must be signed by the donor and attested by two witnesses, and registration is generally required for immovable property.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Mortgage Deed in India?",
+    "answer": "A Mortgage Deed in India is a legal document that creates a charge or security on a property in favor of a lender as security for a loan. It specifies the terms of the loan, the property details, and the conditions of the mortgage.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Partition Deed in India?",
+    "answer": "A Partition Deed in India is a legal document used to divide a joint property among its co-owners. It clearly defines the share allocated to each co-owner and must be registered with the relevant authorities.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Relinquishment Deed in India?",
+    "answer": "A Relinquishment Deed in India is a legal document by which a co-owner of a property voluntarily gives up their share in the property in favor of other co-owners. It needs to be registered to be legally valid.",
+    "label": "legal"
+  },
+  {
+    "question": "What is an Adoption Deed in India?",
+    "answer": "An Adoption Deed in India is a legal document that formalizes the adoption of a child by adoptive parents, in accordance with the relevant laws such as the Hindu Adoptions and Maintenance Act or through court orders under the Juvenile Justice (Care and Protection of Children) Act.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Memorandum of Understanding (MoU) in India?",
+    "answer": "In India, a Memorandum of Understanding (MoU) is a written agreement between two or more parties outlining their intentions to work together towards a common goal. While not always legally binding in its entirety, it signifies a mutual understanding and can form the basis for future legally binding agreements.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Collaboration Agreement in India?",
+    "answer": "A Collaboration Agreement in India is a contract between two or more parties who agree to cooperate on a specific project or business venture. It outlines the roles, responsibilities, resources, and profit-sharing arrangements of each party.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Service Agreement in India?",
+    "answer": "A Service Agreement in India is a contract between a service provider and a client that specifies the services to be provided, the terms of service, the fees, and the responsibilities of each party.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Loan Agreement in India?",
+    "answer": "A Loan Agreement in India is a legally binding contract between a lender and a borrower that outlines the terms of a loan, including the principal amount, interest rate, repayment schedule, and any security or collateral provided.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Guarantee Agreement in India?",
+    "answer": "A Guarantee Agreement in India is a contract where a person (the guarantor) promises to be responsible for the debt or obligation of another person (the principal debtor) if the principal debtor fails to fulfill their obligations.",
+    "label": "legal"
+  },
+  {
+    "question": "What is an Indemnity Bond in India?",
+    "answer": "An Indemnity Bond in India is a legal document where one party (the indemnifier) promises to protect another party (the indemnitee) against any loss or damage that may arise from a specific event or action.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Surety Bond in India?",
+    "answer": "A Surety Bond in India is a three-party agreement where a surety company guarantees to one party (the obligee) that a second party (the principal) will fulfill their obligations. If the principal fails to do so, the surety will compensate the obligee.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Registered Document in India?",
+    "answer": "In India, a registered document is a legal document that has been officially recorded with the relevant government authorities (like the Sub-Registrar of Assurances). Registration provides legal validity and public notice of the transaction, especially for immovable property.",
+    "label": "legal"
+  },
+  {
+    "question": "What is an Encumbrance Certificate in India?",
+    "answer": "An Encumbrance Certificate (EC) in India is an official document issued by the Sub-Registrar's office that shows whether a property has any registered charges or encumbrances against it, such as mortgages, liens, or pending legal disputes, for a specified period.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Mutation of Property in India?",
+    "answer": "Mutation of property in India is the process of transferring the title or ownership of a property in the official land records of the local municipal authority or revenue department when there is a change in ownership due to sale, inheritance, gift, etc. It is important for paying property taxes and establishing ownership.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Khata Certificate in Karnataka, India?",
+    "answer": "In Karnataka, India, a Khata Certificate is a document issued by the local municipal body (like BBMP) that identifies a person as the owner of a particular property for the purpose of property tax assessment and collection. It contains details of the property and the owner.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Patta Chitta in Tamil Nadu, India?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Jamabandi in some parts of India?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Vakalatnama in India?",
+    "answer": "A Vakalatnama is a legal document filed by an advocate in an Indian court, authorizing them to appear and act on behalf of a client in a particular case.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Plaint in Indian Civil Procedure?",
+    "answer": "In Indian civil procedure, a Plaint is the first document filed by the plaintiff (the party initiating the suit) in a civil court. It contains the details of the plaintiff's claim, the facts constituting the cause of action, and the relief sought from the court.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Written Statement in Indian Civil Procedure?",
+    "answer": "In Indian civil procedure, a Written Statement is the reply filed by the defendant (the party against whom the suit is filed) to the plaint. It contains the defendant's response to the plaintiff's claims and their own version of the facts and legal defenses.",
+    "label": "legal"
+  },
+  {
+    "question": "What is an Order in Indian Court Proceedings?",
+    "answer": "An Order in Indian court proceedings is a formal direction issued by the court on a specific matter during the course of a case. Orders can relate to various aspects, such as procedural steps, evidence, or interim relief.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Judgment in Indian Court Proceedings?",
+    "answer": "A Judgment in Indian court proceedings is the final decision of the court in a case, stating the findings on the issues raised and the relief granted or denied to the parties.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Decree in Indian Civil Procedure?",
+    "answer": "In Indian civil procedure, a Decree is the formal expression of an adjudication by the court that conclusively determines the rights of the parties with regard to all or any of the matters in controversy in the suit. It follows the judgment and specifies the relief to be granted.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Stay Order from an Indian Court?",
+    "answer": "A Stay Order from an Indian court is an order that temporarily suspends the operation or execution of another order or action, pending further hearing or disposal of the matter by the court or a higher authority.",
+    "label": "legal"
+  },
+  {
+    "question": "What is an Injunction Order from an Indian Court?",
+    "answer": "An Injunction Order from an Indian court is a judicial order that restrains a party from doing a specified act (prohibitory injunction) or requires them to do a specified act (mandatory injunction).",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Summons from an Indian Court?",
+    "answer": "A Summons from an Indian court is a legal document issued by the court to a defendant or a witness, requiring them to appear before the court on a specified date and time.",
+    "label": "legal"
+  },
+  {
+    "question": "What is an Execution Petition in India?",
+    "answer": "An Execution Petition is an application filed in an Indian court by the decree-holder (the party who has won the case and has a decree in their favor) to enforce the decree and obtain the relief granted by the court.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Caveat in Indian Legal Proceedings?",
+    "answer": "A Caveat in Indian legal proceedings is a notice filed by a person in a court to prevent certain actions from being taken without informing the caveator (the person who filed the caveat).",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Public Notice in India?",
+    "answer": "A Public Notice in India is a formal announcement published in newspapers or other public forums to inform the general public about a specific matter, such as property transactions, legal proceedings, or government notifications.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Special Power of Attorney in India?",
+    "answer": "A Special Power of Attorney in India authorizes the agent to act on behalf of the principal only for specific and defined purposes, unlike a general power of attorney which grants broader authority.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a General Power of Attorney in India?",
+    "answer": "A General Power of Attorney in India grants broad authority to the agent to act on behalf of the principal in a wide range of legal and financial matters.",
+    "label": "legal"
+  },
+  {
+    "question": "What is the process of registering a property deed in India?",
+    "answer": "The process of registering a property deed in India typically involves preparing the deed, paying stamp duty and registration charges, appearing before the Sub-Registrar of Assurances with the original documents and identification proofs of the parties and witnesses, and getting the deed registered.",
+    "label": "legal"
+  },
+  {
+    "question": "What are the stamp duty charges for property registration in India?",
+    "answer": "Stamp duty charges for property registration in India vary from state to state and are calculated as a percentage of the property's market value or the transaction value, whichever is higher. Specific rates depend on the state's regulations and sometimes on the type of property and the parties involved.",
+    "label": "legal"
+  },
+  {
+    "question": "What is the Registration Act, 1908 in India?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "legal"
+  },
+  {
+    "question": "What is the Transfer of Property Act, 1882 in India?",
+    "answer": "The Transfer of Property Act, 1882 in India is a law that regulates the transfer of immovable property between living persons. It defines various types of transfers, such as sale, mortgage, lease, gift, and exchange, and lays down the conditions and requirements for each.",
+    "label": "legal"
+  },
+  {
+    "question": "What is the Indian Contract Act, 1872?",
+    "answer": "The Indian Contract Act, 1872 is a law that governs the formation, performance, and enforceability of contracts in India. It defines the essential elements of a valid contract, deals with breach of contract, and provides remedies for such breaches.",
+    "label": "legal"
+  },
+  {
+    "question": "What is the Hindu Succession Act, 1956 in India?",
+    "answer": "The Hindu Succession Act, 1956 in India governs the devolution of property in the case of Hindus, Buddhists, Jains, and Sikhs who die intestate (without a will). It establishes the rules of inheritance for various classes of legal heirs.",
+    "label": "legal"
+  },
+  {
+    "question": "What is the Indian Evidence Act, 1872?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "legal"
+  },
+  {
+    "question": "What is the Code of Civil Procedure, 1908 in India?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "legal"
+  },
+  {
+    "question": "What is the Code of Criminal Procedure, 1973 in India?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "legal"
+  },
+  {
+    "question": "What is the Limitation Act, 1963 in India?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "legal"
+  },
+  {
+    "question": "What is the Specific Relief Act, 1963 in India?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "legal"
+  },
+  {
+    "question": "What is the Negotiable Instruments Act, 1881 in India?",
+    "answer": "The Negotiable Instruments Act, 1881 in India deals with promissory notes, bills of exchange, and cheques, and lays down the rules governing their creation, transfer, and liabilities of the parties involved.",
+    "label": "legal"
+  },
+  {
+    "question": "What is the Arbitration and Conciliation Act, 1996 in India?",
+    "answer": "The Arbitration and Conciliation Act, 1996 in India provides the legal framework for conducting arbitration and conciliation proceedings as alternative dispute resolution mechanisms.",
+    "label": "legal"
+  },
+  {
+    "question": "What is the Consumer Protection Act, 2019 in India?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "legal"
+  },
+  {
+    "question": "What is the Indian Penal Code, 1860?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Notarized Document in India?",
+    "answer": "A notarized document in India is one that has been authenticated by a notary public, who verifies the identity of the signatories and witnesses their signatures. Notarization adds a degree of legal authenticity to the document.",
+    "label": "legal"
+  },
+  {
+    "question": "What is an Attested Document in India?",
+    "answer": "An attested document in India is one that has been signed by one or more witnesses in the presence of the executant (the person signing the document). Attestation is required for certain legal documents, such as wills and some types of deeds, to validate them.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Registered Will in India?",
+    "answer": "In India, while registration of a will is not mandatory, a registered will provides stronger legal evidence of its genuineness and execution, reducing the chances of disputes after the testator's death.",
+    "label": "legal"
+  },
+  {
+    "question": "What is Intestate Succession in India?",
+    "answer": "Intestate succession in India refers to the rules of inheritance that apply when a person dies without making a valid will. The applicable laws and the order of inheritance depend on the religion of the deceased.",
+    "label": "legal"
+  },
+  {
+    "question": "What is Testamentary Succession in India?",
+    "answer": "Testamentary succession in India refers to the devolution of property according to a valid will made by the deceased person.",
+    "label": "legal"
+  },
+  {
+    "question": "What is a Family Settlement Agreement in India?",
+    "answer": "A Family Settlement Agreement in India is a written agreement among family members to settle disputes related to the division of property or other family matters. It is often used as an alternative to lengthy and expensive litigation.",
+    "label": "legal"
+  },
+  {
+    "question": "Who are the executors and trustees of the estate?",
+    "answer": "(1) Sri._______________________ S/o.____________________ residing at ________________________________________________ aged about ________ years _________ by religion, occupation _______________ (2) Sri._______________________ S/o.____________________ residing at ________________________________________________ aged about ________ years _________ by religion, occupation _______________ (3) Sri._______________________ S/o.____________________ residing at ________________________________________________ aged about ________ years _________ by religion, occupation ______________.",
+    "label": "legal"
+  },
+  {
+    "question": "Who is the beneficiary of the estate?",
+    "answer": "The beneficiary of the estate is the testator's wife, Smt._____________________.",
+    "label": "legal"
+  },
+  {
+    "question": "What is the format of a NON-DISCLOSURE AND CONFIDENTIALITY AGREEMENT?",
+    "answer": "State of __________\n\nNON-DISCLOSURE AND CONFIDENTIALITY AGREEMENT\n\nThis Non-Disclosure and Confidentiality Agreement (this “Agreement”) is entered into as of ____________________, 20______ (the “Effective Date”) by and between: ...",
+    "label": "legal"
+  },
+  {
+    "question": "What is the format of a non-disclosure agreement?",
+    "answer": "State of __________\n\nMUTUAL NON-DISCLOSURE AND CONFIDENTIALITY AGREEMENT\n\nThis Non-Disclosure and Confidentiality Agreement (this “Agreement”) is entered into as of the ____________________, 20______ (the “Effective Date”) by and between: ...",
+    "label": "legal"
+  },
+  {
+    "question": "What is the Fibonacci sequence?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "How does a microwave oven work?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What are the benefits of exercise?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "How does a computer CPU function?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What are the characteristics of a black hole?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "How does the internet work?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What is climate change?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "How are stars formed?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What are the different types of clouds?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "How does DNA replication occur?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What is the history of the Roman Empire?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "How do plants perform photosynthesis?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What are the principles of aerodynamics?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "How does the human digestive system work?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What are the stages of sleep?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What are the different types of musical instruments?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "How does the human immune system function?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What is the process of silk production?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "How do earthquakes occur?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What are the stages of human development?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What is the Fibonacci sequence?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "How does a microwave oven work?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What are the benefits of exercise?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "How does a computer CPU function?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What are the characteristics of a black hole?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "How does the internet work?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What is climate change?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "How are stars formed?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What are the different types of clouds?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "How does DNA replication occur?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What is the history of the Roman Empire?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "How do plants perform photosynthesis?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What are the principles of aerodynamics?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "How does the human digestive system work?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What are the stages of sleep?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What are the different types of musical instruments?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "How does the human immune system function?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What is the process of silk production?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "How do earthquakes occur?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  },
+  {
+    "question": "What are the stages of human development?",
+    "answer": "I am sorry but my sources do not address this question. I am an AI chatbot that answers questions only about Indian legal documents.",
+    "label": "non_legal"
+  }
+]
