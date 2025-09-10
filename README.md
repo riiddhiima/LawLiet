@@ -1,7 +1,5 @@
 # LawLiet
 
-![LawLiet Logo](docs/lawliet-logo.png)
-
 **LawLiet** is an AI-powered chatbot that answers queries about Indian legal documents. Built with Flask and OpenAI's GPT-4o, it provides instant legal explanations, document classification, and response evaluation—all via a simple web interface.
 
 ---
@@ -108,13 +106,6 @@ Scripts in `datanew/` help you monitor and run fine-tuning of language models fo
 - API access is protected via keys.
 - Session-based conversation history.
 - Rate limiting via Flask-Limiter.
-
----
-
-## 🖼️ Screenshots
-
-![Chatbot UI](docs/screenshot-chat.png)
-*Simple, intuitive web interface for legal queries.*
 
 ---
 
